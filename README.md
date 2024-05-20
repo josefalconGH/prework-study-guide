@@ -4,15 +4,6 @@
 
 This study guide served as a gateway to introducing HTML, CSS, and JavaScript to my coding knowledge base. The processes of the Git workflow were essential to branching and merging the multiple iterations of this study guide and allowed me to practice said workflow. This study guide contains beginner HTML, CSS, and JavaScript concepts that will be the foundation to the knowledge I will gain throughout the bootcamp.
 
-<!-- ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license) -->
-
 ## Installation
 
 N/A
