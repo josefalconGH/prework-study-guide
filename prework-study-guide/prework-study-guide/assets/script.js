@@ -23,5 +23,9 @@ function selectTopic() {
 
 console.log('Here are the topics we learned through Prework:');
 listTopics();
+<<<<<<< HEAD
+=======
+
+>>>>>>> af9e3ec01c940f2cf031b66f2636d2bc1e930fc2
 console.log('Which topic should we study first?');
 selectTopic();
